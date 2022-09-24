@@ -3,10 +3,10 @@
 ## AIM
 To perform Multivariate EDA on the given data set.
 
-## Explanation
+## Explanation:
 Exploratory data analysis is used to understand the messages within a dataset. This technique involves many iterative processes to ensure that the cleaned data is further sorted to better understand the useful meaning.The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
 
-## ALGORITHM
+## ALGORITHM:
 
 ### STEP 1
 Import the built libraries required to perform EDA and outlier removal.
