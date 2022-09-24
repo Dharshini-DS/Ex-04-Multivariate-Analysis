@@ -90,6 +90,7 @@ sns.heatmap(df.corr(),annot=True)
 
 ### Checking the null values and Cleaning it
 ![ds4](https://user-images.githubusercontent.com/93427345/192081868-bb1c6a2b-c388-4297-8f9d-062a9a6382fa.PNG)
+
 ![ds5](https://user-images.githubusercontent.com/93427345/192081870-5a17f340-ca8e-4f27-9d52-00c8c5b6f0b0.PNG)
 
 ### DATA TYPES
