@@ -111,3 +111,5 @@ sns.heatmap(df.corr(),annot=True)
 ![ds13](https://user-images.githubusercontent.com/93427345/192081930-9ee4f96a-9dad-47e3-be5a-7560aae588e1.PNG)
 
 ## RESULT
+Thus we have read the given data and performed the multivariate analysis with different types of
+plots.
